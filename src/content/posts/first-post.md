@@ -3,7 +3,7 @@ title: 첫 포스트!
 published: 2024-08-04
 description: '처음으로 쓰는 글'
 image: ''
-tags: []
+tags: [첫 글]
 category: '일반'
 draft: false 
 ---
