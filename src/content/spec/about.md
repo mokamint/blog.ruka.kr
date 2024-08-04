@@ -1,9 +1,6 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 소개
+2024년 현재 기준 19세이며 남자입니다.
 
-::github{repo="saicaca/fuwari"}
+C와 같은 네이티브, 임베디드 개발과 RF (Radio Frequency)에 관심이 있습니다.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+가수 윤하의 팬이며 Y.HOLICS 8기이기도 합니다.
